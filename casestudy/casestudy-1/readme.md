@@ -11,7 +11,7 @@ strategy. A Modem is likewise associated with this controller for the remote cor
 innovation by getting an alarm through SMS..
 # BLOCK DIAGRAM
 ![bd](https://user-images.githubusercontent.com/75032547/154969937-de722807-dae9-4b98-aabe-88d9833a233f.jpg)
-# HIGH LEVEL IMPLEMENTATIO
+# HIGH LEVEL IMPLEMENTATION
 
 | ID  | High level requirements |
 | ------------- | ------------- |
